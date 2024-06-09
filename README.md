@@ -13,79 +13,87 @@ Welcome to **Extensiopedia**! This project aims to document various file extensi
 
 ### Archive Files
 Archive file formats are used to collect multiple files into a single file for easier portability and storage, often with data compression.
-- Examples: .7z, .rar, .zip, .tar, .gz
+- Examples: .7z, .ace, .apk, .arj, .bz2, .cab, .cpio, .cpz, .dmg, .gz, .iso, .lz, .lzma, .pea, .rar, .rpm, .s7z, .tar, .tar.bz2, .tar.gz, .tar.xz, .tar.z, .xar, .xz, .z, .zip, .zipx, .zoo
 
 ### Audio Files
 Audio file formats are used to store digital audio data on a computer system.
-- Examples: .mp3, .wav, .flac, .aac, .ogg
+- Examples: .aa, .aac, .act, .aif, .aifc, .aiff, .aiffc, .alac, .alaw, .amr, .ape, .au, .cda, .dts, .dts-hd, .flac, .gsm, .m4a, .m4p, .mmf, .mp2, .mp3, .msv, .ogg, .opus, .pcm, .ra, .raw, .sln, .tta, .voc, .vox, .wav, .wma, .wv
 
-### Backup Files
-Backup file formats are used to store copies of data that can be restored in case of data loss.
-- Examples: .bak, .bkp, .gho, .dmg, .tib
+### Backup and Disk Image Files
+Backup and disk image file formats are used to store copies of data and entire disk images that can be restored in case of data loss.
+- Examples: .ab, .adi, .arc, .bak, .bkf, .bkp, .bup, .dmg, .fbk, .fbw, .gho, .ghs, .hbk, .hdmp, .ibackup, .nbf, .qbb, .qic, .spf, .sqb, .tbu, .tib, .vhd, .vhdx
 
-### CAD Files
-CAD (Computer-Aided Design) file formats are used for designing and documenting products and buildings.
-- Examples: .dwg, .dxf, .stl, .3dm, .iges
+### CAD and 3D Model Files
+CAD (Computer-Aided Design) and 3D model file formats are used for designing and documenting products and buildings.
+- Examples: .3dm, .3ds, .3mf, .a3d, .ac, .allplan, .blend, .catpart, .catproduct, .dgn, .dwfx, .dwg, .dxf, .ifc, .iges, .igs, .jcad, .msk, .obj, .ply, .prt, .sat, .sldasm, .sldprt, .step, .stl, .stp, .u3d, .wire, .wrk, .wrl, .x_b, .x_t
+
+### Data and Configuration Files
+Data and configuration file formats are used for storing data and configuration settings.
+- Examples: .bin, .cfg, .conf, .config, .csv, .dat, .db, .db3, .dbf, .fdb, .gz, .inf, .ini, .json, .log, .mat, .rdf, .sas7bdat, .sav, .sql, .sqlite, .sqlite3, .tar, .txt, .xlsx, .xml, .yaml, .yml
 
 ### Database Files
 Database file formats are used to store and manage data in structured form.
-- Examples: .db, .sql, .mdb, .sqlite, .accdb
-
-### Data Files
-Data file formats are used for storing data and can include a variety of file types.
-- Examples: .csv, .json, .xml, .yaml, .dat
+- Examples: .accdb, .accde, .accdr, .accdt, .backup, .bak, .db, .dbf, .fdb, .frm, .gdb, .ibd, .ibz, .idb, .idb2, .mdb, .mwb, .myd, .ndb, .ns2, .nsf, .ora, .pdb, .sql, .sqlite, .sqlitedb, .tmd, .udb, .webarchive, .xdb
 
 ### Document Files
 Document file formats are used for creating, storing, and sharing documents.
-- Examples: .doc, .docx, .pdf, .xls, .ppt
+- Examples: .abw, .csv, .djvu, .doc, .docx, .dot, .dotx, .epub, .fb2, .fodp, .fodt, .gdoc, .key, .latex, .md, .odm, .odp, .ods, .odt, .ott, .pages, .pdf, .ppt, .pptx, .ps, .rtf, .rtfd, .snb, .tex, .txt, .wpd, .wps, .xls, .xlsx, .xps
 
 ### Email Files
 Email file formats are used to store emails and related data.
-- Examples: .eml, .msg, .ost, .pst, .mbox
+- Examples: .bcmx, .blf, .emix, .eml, .emlx, .ics, .mbox, .msg, .oft, .olm, .ost, .p7s, .pst, .rge, .rpmsg, .scs, .tnef, .vcf
 
-### Executable Files
-Executable file formats are used for files that can be executed on a computer system.
-- Examples: .exe, .bat, .sh, .jar, .apk
+### Executable and Script Files
+Executable and script file formats are used for files that can be executed on a computer system.
+- Examples: .apk, .app, .bat, .bin, .cgi, .cmd, .com, .cpl, .deb, .dll, .exe, .gadget, .iso, .jar, .ksh, .mrc, .msi, .nsh, .pl, .ps1, .py, .rpm, .run, .scpt, .sh, .shb, .shs, .tlb, .vbs, .wsf, .xqt
+
+### Firmware Files
+Firmware file formats are used for firmware updates and binary data for embedded systems.
+- Examples: .a26, .abs, .bin, .rom, .s19, .sys
 
 ### Font Files
 Font file formats are used to store font data.
-- Examples: .ttf, .otf, .woff, .fnt, .eot
+- Examples: .afm, .bdf, .cff, .dfont, .eot, .etx, .ffil, .fon, .lwfn, .otf, .pfa, .pfb, .pfm, .sfd, .svg, .ttc, .ttf, .ufo, .woff, .woff2
+
+### Game Files
+Game file formats are used for game data and assets.
+- Examples: .pak, .pfs, .uasset, .umd, .utx
 
 ### GIS Files
 GIS (Geographic Information System) file formats are used for geographic data.
-- Examples: .shp, .kml, .geojson, .gpx, .tif
+- Examples: .ai, .asc, .bln, .crd, .dbf, .dem, .dir, .dwg, .dxf, .egm, .erf, .fnt, .geojson, .geotiff, .gml, .gpx, .grb, .kml, .kmz, .mif, .sbn, .sbx, .shp, .shx, .sid, .tab, .tfw, .tif, .tiff, .vrt, .wkb, .wkt
 
 ### Graphic Design Files
 Graphic design file formats are used for creating and editing images and graphics.
-- Examples: .psd, .ai, .svg, .eps, .indd
+- Examples: .afdesign, .ai, .apng, .art, .arw, .bmp, .cbr, .cdr, .cr2, .crw, .dds, .dib, .dng, .eps, .fh, .indd, .jp2, .nef, .orf, .pcx, .pdf, .pef, .pgm, .pic, .plt, .psd, .raw, .sai, .sketch, .svg, .tga, .tif, .tiff, .webp, .xcf, .yuv
 
 ### Image Files
 Image file formats are used for storing digital images.
-- Examples: .jpg, .png, .gif, .bmp, .tiff
+- Examples: .ai, .art, .avif, .bimp, .bpg, .cin, .cpt, .djvu, .eps, .exif, .fit, .fits, .gif, .heic, .hpic, .icb, .ico, .jng, .jpeg, .jpg, .pat, .pct, .pdf, .ps, .psd, .raw, .svg, .tif, .tiff, .webp
 
 ### Log Files
 Log file formats are used to store logs generated by computer systems and applications.
-- Examples: .log, .txt, .evtx, .trace, .journal
+- Examples: .bin, .cap, .dbg, .err, .etl, .evtx, .fdr, .gfi, .gz, .har, .ipr, .journal, .log, .log1, .log2, .out, .plog, .prc, .prf, .rdc, .rtf, .sqldump, .trace, .txt, .wrn, .xml
 
-### Models Files
-Models file formats are used in data science and machine learning to store models.
-- Examples: .h5, .onnx, .tflite, .pkl, .joblib
+### Model Files
+Model file formats are used in data science and machine learning to store models.
+- Examples: .caffemodel, .d2, .h5, .h5py, .hdf5, .joblib, .json, .mar, .mlmodel, .mlmodelc, .model, .onnx, .params, .pb, .pkl, .prototxt, .pt, .pth, .pth.tar, .pwb, .sav, .tflite, .weights
 
 ### Programming Files
 Programming file formats are used for writing and storing code.
-- Examples: .py, .java, .js, .html, .css
+- Examples: .a, .as, .asm, .bat, .c, .c++, .cake, .class, .cljs, .coffee, .cpp, .cs, .css, .dart, .dll, .dtd, .el, .f90, .go, .h, .haml, .html, .idl, .java, .js, .json5, .jsx, .kt, .less, .ls, .lua, .m, .mm, .nrx, .perl, .php, .pl, .pl6, .prg, .py, .pyc, .pyo, .r, .rb, .rhtml, .rpy, .rs, .ruby, .sass, .scala, .scm, .scss, .sh, .so, .sql, .sublime-project, .sublime-workspace, .sv, .svh, .swift, .tcl, .texi, .ts, .v, .vhd, .vhdl, .vue, .yaml, .yml
 
 ### System Files
 System file formats are used for storing system data and configuration.
-- Examples: .sys, .dll, .cfg, .ini, .deb
+- Examples: .adi, .adm, .applescript, .bak, .bash, .bashrc, .bin, .cfg, .cfm, .cmd, .conf, .dat, .deb, .dll, .dmp, .drv, .err, .gadget, .inf, .ini, .init, .ko, .log, .mbox, .msc, .msg, .old, .plist, .pnf, .prf, .ps, .reg, .resx, .rpm, .saver, .scr, .sh, .sln, .sys, .trc, .vbp, .vbs, .vbscript, .vxd, .xll
 
 ### Video Files
 Video file formats are used for storing digital video data.
-- Examples: .mp4, .avi, .mkv, .mov, .wmv
+- Examples: .3gp, .amv, .asf, .avi, .bik, .divx, .drc, .dv, .f4v, .flv, .m1v, .m2ts, .m2v, .m4v, .mkv, .mov, .mp2, .mp4, .mpeg, .mpg, .mts, .nsv, .ogv, .rm, .roq, .svi, .trp, .ts, .vob, .webm, .wmv, .yuv
 
 ### Virtualization Files
 Virtualization file formats are used for virtual machines and related data.
-- Examples: .vdi, .vmdk, .qcow2, .ovf, .vhd
+- Examples: .img, .nvram, .ova, .ovf, .pvm, .qcow, .qcow2, .raw, .vbox, .vdi, .vfd, .vhd, .vhdx, .vmdk, .vmsn, .vmx, .vpc, .vsv, .xva
 
 ## Features
 

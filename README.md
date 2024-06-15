@@ -117,3 +117,5 @@ Navigate through the `src` directory to explore different file extensions and th
 ---
 
 Happy learning!
+
+![Alt](https://repobeats.axiom.co/api/embed/c5be1f85236502cfb371ca877f39e8e8353b27ac.svg "Repobeats analytics image")
